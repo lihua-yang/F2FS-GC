@@ -1,1 +1,1 @@
-# F2FS-GC
+# Qemu + Hikey-linaro
